@@ -3,4 +3,4 @@
 
 
 1. [Day1](week1/README.md#Day1)
-1. [Day1](week1/README.md#Day2)
+1. [Day2](week1/README.md#Day2)
