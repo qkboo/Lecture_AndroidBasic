@@ -2,5 +2,5 @@
 원주 안드로이드 기본
 
 
-1. [Day1](day1/README.md)
-1. [Day2]()
+1. [Day1](week1/README.md#Day1)
+1. [Day1](week1/README.md#Day2)
